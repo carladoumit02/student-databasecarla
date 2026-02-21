@@ -5,7 +5,7 @@ This project contains a database for storing information about students, their r
 
 It includes:
 - A students table
-- A registered_courses table
+- A registered courses table
 - A grades table
 
 The database allows querying for the maximum and average grades of students.
